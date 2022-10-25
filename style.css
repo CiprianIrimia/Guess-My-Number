@@ -17,3 +17,10 @@ body {
   color: #eee;
   background-color: #222;
 }
+
+/* LAYOUT */
+header {
+  position: relative;
+  height: 35vh;
+  border-bottom: 7px solid #eee;
+}
