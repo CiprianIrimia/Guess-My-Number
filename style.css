@@ -110,11 +110,13 @@ h1 {
   background-color: #ccc;
 }
 
-.message {
-  margin-bottom: 8rem;
-  height: 3rem;
-}
-
 .label-score {
   margin-bottom: 2rem;
+}
+
+.message {
+  margin-bottom: 8rem;
+  height: 5rem;
+  background-color: #222;
+  color: #eee;
 }
